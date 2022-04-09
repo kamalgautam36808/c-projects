@@ -24,7 +24,7 @@ first:
     goto end;
 
 second:
-    printf("enter the height andbreadth of triangle\n");
+    printf("enter the height and breadth of triangle\n");
     scanf("%f %f",&h,&v);
     T=.5*v*h;
     printf("the area of triangle is %.2f\n",T);
